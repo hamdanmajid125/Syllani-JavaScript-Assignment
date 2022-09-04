@@ -1,0 +1,21 @@
+img#mainslider {
+    height: 400px;
+    width: 50%;
+}
+.slidernav {
+    display: flex;
+    margin-top: 31px;
+    justify-content: center;
+}
+
+.slidernav img {
+    width: 80px;
+    margin-right: 16px;
+    height: 80px;
+    border-radius: 50%;
+   
+}
+
+.slidernav img:hover{
+    cursor: pointer;
+    }
